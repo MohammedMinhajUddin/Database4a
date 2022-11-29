@@ -1,0 +1,1 @@
+ALTER TABLE operations ADD WorkLocation ENUM ('Factory1','Factory2','Store1','Store2','Store3','Store4','LogisticsDept','OnField') NOT NULL;

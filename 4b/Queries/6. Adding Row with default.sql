@@ -1,0 +1,1 @@
+ALTER TABLE instoresales ADD (StoreName Char(15) DEFAULT 'Store1');

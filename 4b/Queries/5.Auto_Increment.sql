@@ -1,0 +1,3 @@
+ALTER TABLE customerinfo
+MODIFY CustomerID Int NOT Null
+AUTO_INCREMENT PRIMARY KEY;
